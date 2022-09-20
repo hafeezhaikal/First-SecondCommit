@@ -16,7 +16,7 @@
         android:ems="10"
         android:hint="Nama"
         android:inputType="textPersonName"
-        android:text="@string/user_name" />
+        android:text="MiuMiu" />
 
     <Button
         android:id="@+id/btnNama"
